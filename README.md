@@ -6,7 +6,7 @@
 
 ```sh
 # clone this repository
-git clone https://www.github.com/nickooms/contilio-coding-challenge
+git clone https://github.com/nickooms/contilio-coding-challenge.git
 # cd into the folder
 cd contilio-coding-challenge
 # install packages
